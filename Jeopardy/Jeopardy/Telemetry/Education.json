@@ -1,0 +1,126 @@
+{
+
+  "categoryType": 3,
+  "questions": {
+    "1": [
+      {
+        "possibleAnswers": [
+          {
+            "answerId": "c88203b3-08f6-4ce5-a0b9-673kd6sm749m-0",
+            "TextAnswer": "1940-1950"
+          },
+          {
+            "answerId": "c88203b3-08f6-4ce5-a0b9-673kd6sm749m-1",
+            "TextAnswer": "1960-1980"
+          },
+          {
+            "answerId": "c88203b3-08f6-4ce5-a0b9-673kd6sm749m-2",
+            "TextAnswer": "1980-2000"
+          },
+          {
+            "answerId": "c88203b3-08f6-4ce5-a0b9-673kd6sm749m-3",
+            "TextAnswer": "2000-2010"
+          }
+        ],
+        "correctAnswerId": "c88203b3-08f6-4ce5-a0b9-673kd6sm749m-1",
+        "questionType": "Radio",
+        "questionId": "c88203b3-08f6-kn5s-okl9-673kd6sm749m",
+        "questionText": "When was education on the rise in Korea?",
+        "alreadyAnswered": false,
+        "difficulty": 1,
+        "explanation": "Park Chung Hee became President in 1963. Little by little, he established a dictature: he boosted the economy of the country thanks to his plan, but those decisions were at the cost of Korean's mental and physical health. One of his lines was the industry. To meet the demands for education towards the needs of an industrializing economy, the country level up its standards. Today, academical success is still a synonym to a good socioeconomic position in South Korean society."
+      }
+    ],
+    "2": [
+      {
+        "possibleAnswers": [
+          {
+            "answerId": "c88203b3-08f6-kn5s-okl9-a37hd8nc3w8-0",
+            "TextAnswer": "a student who has just commited suicide"
+          },
+          {
+            "answerId": "c88203b3-08f6-kn5s-okl9-a37hd8nc3w8-1",
+            "TextAnswer": "the initials of the main topics studed in every school"
+          },
+          {
+            "answerId": "c88203b3-08f6-kn5s-okl9-a37hd8nc3w8-2",
+            "TextAnswer": "a student who had the maximal points for an exam"
+          },
+          {
+            "answerId": "c88203b3-08f6-kn5s-okl9-a37hd8nc3w8-3",
+            "TextAnswer": "the initials of three universities"
+          }
+        ],
+        "correctAnswerId": "c88203b3-08f6-kn5s-okl9-a37hd8nc3w8-3",
+        "questionType": "Radio",
+        "questionId": "c88203b3-08f6-kn5s-okl9-a37hd8nc3w8",
+        "questionText": "What does SKY stand for?",
+        "alreadyAnswered": false,
+        "difficulty": 2,
+        "explanation": "Seoul National University - Korea University - Yonsei University. They are considered to be the top of the schools in Korea. To enter such schools, students need to have the best grades in Suneung (high school final exam). That is why students follow courses in Hakwons (private institute)."
+      }
+    ],
+    "3": [
+      {
+        "beginAnswer": 0,
+        "endAnswer": 10,
+        "step":  1,
+        "correctAnswer": 6,
+        "acceptedError": 1,
+        "questionType": "Slider",
+        "questionId": "c88203b3-08f6-kn5s-okl9-dy30k76bcw2z",
+        "questionText": "On average, how many hours do korean high school students sleep?",
+        "alreadyAnswered": false,
+        "difficulty": 3,
+        "explanation": "After school, children need to self-study. To do so, some of them assist in private lessons in Hakwons. Those are night school and children can finish up until 10pm. After that, children go back to their home to eat and to self-study again (until 2am for some of them). Due to their busy schedule, they sleep 5.5 hour per night on average, according to a poll made by the National Youth Policy Institute."
+      }
+    ],
+    "4": [
+      {
+        "possibleAnswers": [
+          {
+            "answerId": "c88203b3-08f6-kn5s-okl9-kt49x2i5bcd7-0",
+            "TextAnswer": "Planes do not take off or land."
+          },
+          {
+            "answerId": "c88203b3-08f6-kn5s-okl9-kt49x2i5bcd7-1",
+            "TextAnswer": "Policemen are deployed to escort students who are late"
+          },
+          {
+            "answerId": "c88203b3-08f6-kn5s-okl9-kt49x2i5bcd7-2",
+            "TextAnswer": "Construction sites are paused"
+          },
+          {
+            "answerId": "c88203b3-08f6-kn5s-okl9-kt49x2i5bcd7-3",
+            "TextAnswer": "Start office hours are delayed"
+          },
+          {
+            "answerId": "c88203b3-08f6-kn5s-okl9-kt49x2i5bcd7-4",
+            "TextAnswer": "Areas around schools are completely shut down (shops, ..)"
+          }
+        ],
+        "correctAnswerIds": [ "c88203b3-08f6-kn5s-okl9-kt49x2i5bcd7-0", "c88203b3-08f6-kn5s-okl9-kt49x2i5bcd7-1", "c88203b3-08f6-kn5s-okl9-kt49x2i5bcd7-2", "c88203b3-08f6-kn5s-okl9-kt49x2i5bcd7-3" ],
+        "questionType": "MultipleChoice",
+        "questionId": "c88203b3-08f6-kn5s-okl9-kt49x2i5bcd7",
+        "questionText": "Check all the things that the government put in place during high school final exams in order to oversee its smooth running.",
+        "alreadyAnswered": false,
+        "difficulty": 4,
+        "explanation": "This is the final exam of senior high school. The grades received for this exam will be used by Universities as an entering process. That is why it is such an important moment. In order to not disturb the students during the exam (loud sounds) and to not have delays at this exam, planes do not land or take off; construction sites are paused; policemen are deployed to help latecomers; start hours in offices are delayed..."
+      }
+    ],
+    "5": [
+      {
+        "beginAnswer": 0,
+        "endAnswer": 1200,
+        "step": 50,
+        "correctAnswer": 800,
+        "acceptedError": 200,
+        "questionType": "Slider",
+        "questionId": "c88203b3-08f6-kn5s-okl9-da5ji6nxa4he",
+        "questionText": "On average, how much does a household spend on private lessons? ($/month)",
+        "alreadyAnswered": false,
+        "difficulty": 5,
+        "explanation": "Hakwons are private institutes. They help students with their school curriculum; they help students who fall behind their work; they train students on subjects not covered in regular schools; and they prepare students for university entrance examinations. Some children attend non academic hagwons for music, art, or sports. One commun thing is that they are all expensive (around 800 $ per month)."
+      }
+    ]
+  } }

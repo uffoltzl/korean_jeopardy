@@ -1,0 +1,246 @@
+{
+
+  "categoryType": 1,
+  "questions": {
+    "1": [
+      {
+        "expectedAnswer": [ "volcano", "volcan" ],
+        "questionType": "Textfield",
+        "questionId": "c88203b3-08f6-5ti9-25fg-hozhgq5589f4",
+        "questionText": "If S1 means fire and S2 means mountain, what does S1S2 stands for?",
+        "alreadyAnswered": false,
+        "difficulty": 1,
+        "explanation": "Many korean words are inspired by chinese characters, called Hanja. Therefore, like in Chinese, some two syllables put together means the result of the both components. Here the answer is a mountain of fire = a volcano."
+      }
+    ],
+    "2": [
+      {
+        "possibleAnswers": [
+          {
+            "answerId": "c88203b3-08f6-5ti9-25fg-56gdz9htr1111b-0",
+            "TextAnswer": "The adjectiv: resourceful"
+          },
+          {
+            "answerId": "c88203b3-08f6-5ti9-25fg-56gdz9htr1111b-1",
+            "TextAnswer": "A slang word for cool man"
+          },
+          {
+            "answerId": "c88203b3-08f6-5ti9-25fg-56gdz9htr1111b-2",
+            "TextAnswer": "A synonym of American"
+          },
+          {
+            "answerId": "c88203b3-08f6-5ti9-25fg-56gdz9htr1111b-3",
+            "TextAnswer": "A Swiss Army Knife"
+          }
+        ],
+        "correctAnswerId": "c88203b3-08f6-5ti9-25fg-56gdz9htr1111b-3",
+        "questionType": "Radio",
+        "questionId": "c88203b3-08f6-5ti9-25fg-56gdz9htr1111b",
+        "questionText": "The TV show MacGyver has given its name to an object in Korean. Which one is it?",
+        "alreadyAnswered": false,
+        "difficulty": 2,
+        "explanation": "Many words which have been introduced to Korea after the Korean War come from English. We call those words Konglish because it is pronounced with a korean accent. Be careful because in some cases the word does not have its original meaning. In korean knife is kal. With a korean accent, we obtain Swiss Army Knife = maekgaibeo-kal."
+      },
+      {
+        "possibleAnswers": [
+          {
+            "answerId": "c88203b3-08f6-5ti9-25fg-pamhdg63kjz90b-0",
+            "TextAnswer": "White"
+          },
+          {
+            "answerId": "c88203b3-08f6-5ti9-25fg-pamhdg63kjz90b-1",
+            "TextAnswer": "Black"
+          },
+          {
+            "answerId": "c88203b3-08f6-5ti9-25fg-pamhdg63kjz90b-2",
+            "TextAnswer": "Blue"
+          },
+          {
+            "answerId": "c88203b3-08f6-5ti9-25fg-pamhdg63kjz90b-3",
+            "TextAnswer": "Green"
+          },
+          {
+            "answerId": "c88203b3-08f6-5ti9-25fg-pamhdg63kjz90b-4",
+            "TextAnswer": "Red"
+          }
+        ],
+        "correctAnswerId": "c88203b3-08f6-5ti9-25fg-pamhdg63kjz90b-2",
+        "questionType": "Radio",
+        "questionId": "c88203b3-08f6-5ti9-25fg-pamhdg63kjz90b",
+        "questionText": "Which color is associated with the official residence of the President?",
+        "alreadyAnswered": false,
+        "difficulty": 2,
+        "explanation": "The official residence of Korea's head of state is called Cheongwadae. Its literal meaning is 'pavilion of blue tiles', but in English the place is better known as the Blue House. Cheongwadae is a complex of buildings, mainly built using traditional korean architecture with blue roof tiles. The Blue House is considered to be the most protected residence in Asia. "
+      }
+    ],
+    "3": [
+      {
+        "possibleAnswers": [
+          {
+            "answerId": "c88203b3-08f6-5ti9-25fg-ed936kc4km567-0",
+            "TextAnswer": "It is a small weapon"
+          },
+          {
+            "answerId": "c88203b3-08f6-5ti9-25fg-ed936kc4km567-1",
+            "TextAnswer": "This is the korean alphabet"
+          },
+          {
+            "answerId": "c88203b3-08f6-5ti9-25fg-ed936kc4km567-2",
+            "TextAnswer": "It was used to fight the Chinese supremacy"
+          },
+          {
+            "answerId": "c88203b3-08f6-5ti9-25fg-ed936kc4km567-3",
+            "TextAnswer": "It is a symbol of Resistance"
+          },
+          {
+            "answerId": "c88203b3-08f6-5ti9-25fg-ed936kc4km567-4",
+            "TextAnswer": "It has been invented during a period of high poverty"
+          },
+          {
+            "answerId": "c88203b3-08f6-5ti9-25fg-ed936kc4km567-5",
+            "TextAnswer": "It can be eaten"
+          },
+          {
+            "answerId": "c88203b3-08f6-5ti9-25fg-ed936kc4km567-6",
+            "TextAnswer": "Its creator is anonymous"
+          }
+        ],
+        "correctAnswerIds": [ "c88203b3-08f6-5ti9-25fg-ed936kc4km567-1", "c88203b3-08f6-5ti9-25fg-ed936kc4km567-2", "c88203b3-08f6-5ti9-25fg-ed936kc4km567-3" ],
+        "questionType": "MultipleChoice",
+        "questionId": "c88203b3-08f6-5ti9-25fg-ed936kc4km567",
+        "questionText": "What is hangeul? Check all the correct information.",
+        "alreadyAnswered": false,
+        "difficulty": 3,
+        "explanation": "This is the alphabet created by the king Sejong in 1443. He ruled during a period of prosperity, therefore he had the courage to oppose the Chinese. Indeed, the Chinese characters were used to transcribe the korean language. However, only the high society was learning those. As a result, King Sejong wanted an easy enough writing system so that everybody could learn it. The legend says that somebody clever would learn it in 3 hours and somebody who has some difficulties in 3 days. In fact, the system was not spread at the time it was created. Scholars were not willing to give up on the chinese characters, a symbol of their knowledge and status. As a result, Hangeul was banned in 1504. The late 16th century saw a revival of the korean alphabet. It became a symbol of nationalism. It even became a symbol of resistance while being banned during the Japanese occupation. "
+      },
+      {
+        "possibleAnswers": [
+          {
+            "answerId": "c88203b3-08f6-5ti9-25fg-46892jddr79xea39-0",
+            "TextAnswer": "a rat"
+          },
+          {
+            "answerId": "c88203b3-08f6-5ti9-25fg-46892jddr79xea39-1",
+            "TextAnswer": "a bird"
+          },
+          {
+            "answerId": "c88203b3-08f6-5ti9-25fg-46892jddr79xea39-2",
+            "TextAnswer": "a fish"
+          },
+          {
+            "answerId": "c88203b3-08f6-5ti9-25fg-46892jddr79xea39-3",
+            "TextAnswer": "a dog"
+          },
+          {
+            "answerId": "c88203b3-08f6-5ti9-25fg-46892jddr79xea39-4",
+            "TextAnswer": "a cat"
+          }
+        ],
+        "correctAnswerId": "c88203b3-08f6-5ti9-25fg-46892jddr79xea39-3",
+        "questionType": "Radio",
+        "questionId": "c88203b3-08f6-5ti9-25fg-46892jddr79xea39",
+        "questionText": "What animal is usually associated in insults?",
+        "alreadyAnswered": false,
+        "difficulty": 3,
+        "explanation": "Although, dog (gae), used as its own, is not an offensive word, once it is used to describe a human, it becomes a string curse word. Some examples would be: gaesaekki, literal meaning dog's offspring, in english son of a bitch - gaesuli, literal meaning dog's sounds, in english bullshit. The insult's origin takes place during the Korean War where opponents compared each other to animals. Thus, being compared to a dog is really offensive in Korean culture. "
+      }
+    ],
+    "4": [
+      {
+        "possibleAnswers": [
+          {
+            "answerId": "c88203b3-08f6-5ti9-25fg-7po23cytez6678j-0",
+            "TextAnswer": "How have you been doing?"
+          },
+          {
+            "answerId": "c88203b3-08f6-5ti9-25fg-7po23cytez6678j-1",
+            "TextAnswer": "Are you hungry?"
+          },
+          {
+            "answerId": "c88203b3-08f6-5ti9-25fg-7po23cytez6678j-2",
+            "TextAnswer": "The exact same meaning: Have you eaten well?"
+          },
+          {
+            "answerId": "c88203b3-08f6-5ti9-25fg-7po23cytez6678j-3",
+            "TextAnswer": "Are you angry?"
+          }
+        ],
+        "correctAnswerId": "c88203b3-08f6-5ti9-25fg-7po23cytez6678j-0",
+        "questionType": "Radio",
+        "questionId": "c88203b3-08f6-5ti9-25fg-7po23cytez6678j",
+        "questionText": "What does Did you eat? means in Korean?",
+        "alreadyAnswered": false,
+        "difficulty": 4,
+        "explanation": "In Korean,  did you eat is a greeting. It can be understood as 'how are you doing'. After the korean war, the country was facing a lack of food. Thus, asking a person how they were was to ask if they had already eaten. Although, the shortage in food is no more present, this question remains as a habit."
+      },
+      {
+        "possibleAnswers": [
+          {
+            "answerId": "c88203b3-08f6-5ti9-25fg-kkk30kkk268kkk-0",
+            "TextAnswer": "A type of Kimchi"
+          },
+          {
+            "answerId": "c88203b3-08f6-5ti9-25fg-kkk30kkk268kkk-1",
+            "TextAnswer": "Nickname given to a famous actor because each syllable of his name begin with a K"
+          },
+          {
+            "answerId": "c88203b3-08f6-5ti9-25fg-kkk30kkk268kkk-2",
+            "TextAnswer": "Equivalent of LOL."
+          },
+          {
+            "answerId": "c88203b3-08f6-5ti9-25fg-kkk30kkk268kkk-3",
+            "TextAnswer": "Ku Klux Klan"
+          }
+        ],
+        "correctAnswerId": "c88203b3-08f6-5ti9-25fg-kkk30kkk268kkk-2",
+        "questionType": "Radio",
+        "questionId": "c88203b3-08f6-5ti9-25fg-kkk30kkk268kkk",
+        "questionText": "What does kkk mean?",
+        "alreadyAnswered": false,
+        "difficulty": 4,
+        "explanation": "It is not related to the Ku Klux Klan.  It means LOL or LMAO. Actually, the sound of laughter is considered similar to the sound of this letter. Thus it is used as an onomatopoeia."
+      },
+      {
+        "possibleAnswers": [
+          {
+            "answerId": "c88203b3-08f6-5ti9-25fg-slazie4uhfrz67-0",
+            "TextAnswer": "A spirit"
+          },
+          {
+            "answerId": "c88203b3-08f6-5ti9-25fg-slazie4uhfrz67-1",
+            "TextAnswer": "Origin"
+          },
+          {
+            "answerId": "c88203b3-08f6-5ti9-25fg-slazie4uhfrz67-2",
+            "TextAnswer": "Land"
+          },
+          {
+            "answerId": "c88203b3-08f6-5ti9-25fg-slazie4uhfrz67-3",
+            "TextAnswer": "Capital City"
+          }
+        ],
+        "correctAnswerId": "c88203b3-08f6-5ti9-25fg-slazie4uhfrz67-3",
+        "questionType": "Radio",
+        "questionId": "c88203b3-08f6-5ti9-25fg-slazie4uhfrz67",
+        "questionText": "What does Seoul mean?",
+        "alreadyAnswered": false,
+        "difficulty": 4,
+        "explanation": "The city which is today called Seoul had various names over the centuries. After WWII, the city was renamed Seoul (to change from the Japanese name given during the occupation).  Seoul literally means capital city. It comes from an ancient word (Seorabeol) which was used to refer to the capital city back in 57BC-935AC. . Another word is however used today to refer to the capital city of a country. "
+      }
+    ],
+    "5": [
+      {
+        "beginAnswer": 0,
+        "endAnswer": 20,
+        "step":  1,
+        "correctAnswer": 1,
+        "acceptedError": 2,
+        "questionType": "Slider",
+        "questionId": "c88203b3-08f6-5ti9-25fg-dpu47qyr389fr",
+        "questionText": "How many days does it take to learn hangul if you consider yourself as wise?",
+        "alreadyAnswered": false,
+        "difficulty": 5,
+        "explanation": "King Sejong wanted to create an alphabet that everybody could learn easily (even farmers). It resulted in Hangul. He added in a postscript that 'a wise man could acquaint himself with them before the morning is over; a stupid man could learn them in the space of ten days'."
+      }
+    ]
+  } }

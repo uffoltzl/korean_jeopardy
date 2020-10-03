@@ -1,0 +1,136 @@
+{
+
+  "categoryType": 0,
+  "questions": {
+    "1": [
+      {
+        "possibleAnswers": [
+          {
+            "answerId": "c88203b3-08f6-4ce5-a0b9-673kd6sm749m-0",
+            "TextAnswer": "Makgeolli - rice wine"
+          },
+          {
+            "answerId": "c88203b3-08f6-4ce5-a0b9-673kd6sm749m-1",
+            "TextAnswer": "Soju"
+          },
+          {
+            "answerId": "c88203b3-08f6-4ce5-a0b9-673kd6sm749m-2",
+            "TextAnswer": "Soda"
+          },
+          {
+            "answerId": "c88203b3-08f6-4ce5-a0b9-673kd6sm749m-3",
+            "TextAnswer": "Beer"
+          }
+        ],
+        "correctAnswerId": "c88203b3-08f6-4ce5-a0b9-673kd6sm749m-3",
+        "questionType": "Radio",
+        "questionId": "c88203b3-08f6-4ce5-a0b9-673kd6sm749m",
+        "questionText": "What do you drink with fried chicken?",
+        "alreadyAnswered": false,
+        "difficulty": 1,
+        "explanation": "Fried chicken is one of the most popular dishes in South Korea. It is eaten with beer (mekju). The name of this set is called chimek: chiken mekju."
+      }
+    ],
+    "2": [
+      {
+        "possibleAnswers": [
+          {
+            "answerId": "c88203b3-08f6-4ce5-a0b9-slobe5602h578e-0",
+            "TextAnswer": "Beer"
+          },
+          {
+            "answerId": "c88203b3-08f6-4ce5-a0b9-slobe5602h578e-1",
+            "TextAnswer": "Soju"
+          },
+          {
+            "answerId": "c88203b3-08f6-4ce5-a0b9-slobe5602h578e-2",
+            "TextAnswer": "Redbull"
+          },
+          {
+            "answerId": "c88203b3-08f6-4ce5-a0b9-slobe5602h578e-3",
+            "TextAnswer": "Vodka"
+          },
+          {
+            "answerId": "c88203b3-08f6-4ce5-a0b9-slobe5602h578e-4",
+            "TextAnswer": "Rum"
+          }
+        ],
+        "correctAnswerIds": [ "c88203b3-08f6-4ce5-a0b9-slobe5602h578e-0", "c88203b3-08f6-4ce5-a0b9-slobe5602h578e-1" ],
+        "questionType": "MultipleChoice",
+        "questionId": "c88203b3-08f6-4ce5-a0b9-slobe5602h578e",
+        "questionText": "What is the most famous cocktail in Korea?",
+        "alreadyAnswered": false,
+        "difficulty": 2,
+        "explanation": "Beer mixed with a shot of soju.  The beer is not that good in Korea, but apparently the soju brings out the best in it."
+      }
+    ],
+    "3": [
+      {
+        "possibleAnswers": [
+          {
+            "answerId": "c88203b3-08f6-4ce5-a0b9-2hfd3408jjj34-0",
+            "TextAnswer": "For no particular reason"
+          },
+          {
+            "answerId": "c88203b3-08f6-4ce5-a0b9-2hfd3408jjj34-1",
+            "TextAnswer": "Because it is a symbol of purity"
+          },
+          {
+            "answerId": "c88203b3-08f6-4ce5-a0b9-2hfd3408jjj34-2",
+            "TextAnswer": "To begin one's bithday with a healthy meal"
+          },
+          {
+            "answerId": "c88203b3-08f6-4ce5-a0b9-2hfd3408jjj34-3",
+            "TextAnswer": "To thank one's mother for giving birth"
+          }
+        ],
+        "correctAnswerId": "c88203b3-08f6-4ce5-a0b9-2hfd3408jjj34-3",
+        "questionType": "Radio",
+        "questionId": "c88203b3-08f6-4ce5-a0b9-2hfd3408jjj34",
+        "questionText": "Why do Koreans eat seaweed soup on their birthdays?",
+        "alreadyAnswered": false,
+        "difficulty": 3,
+        "explanation": "In Korea, after a birth, the mother has to stay warm (no cold shower, no cold water). In addition, seaweed is rich in calcium and iodine, which is beneficial for the mothers who are weak. It has been proven that it does great help on contractions, obesity and constipation, all of whom happen at the end of a pregnancy. Since it is the first meal of the baby (through the mother) and since the mother has eaten a lot of seaweed soup, the child eats the homemade soup of the mother to thank her for giving birth."
+      }
+    ],
+    "4": [
+      {
+        "possibleAnswers": [
+          {
+            "answerId": "c88203b3-08f6-4ce5-a0b9-968ac6bb2222-0",
+            "TextAnswer": "It is a symbol of transition"
+          },
+          {
+            "answerId": "c88203b3-08f6-4ce5-a0b9-968ac6bb2222-1",
+            "TextAnswer": "It is a symbol of purity"
+          },
+          {
+            "answerId": "c88203b3-08f6-4ce5-a0b9-968ac6bb2222-2",
+            "TextAnswer": "It is rich in protein"
+          }
+        ],
+        "correctAnswerIds": [ "c88203b3-08f6-4ce5-a0b9-968ac6bb2222-0", "c88203b3-08f6-4ce5-a0b9-968ac6bb2222-1", "c88203b3-08f6-4ce5-a0b9-968ac6bb2222-2" ],
+        "questionType": "MultipleChoice",
+        "questionId": "c88203b3-08f6-4ce5-a0b9-968ac6bb2222",
+        "questionText": "Why do Koreans eat soft tofu at the end of an incarceration?",
+        "alreadyAnswered": false,
+        "difficulty": 4,
+        "explanation": "1. Rice and beans used to be one of the main dishes served in jails. The tofu which is made of beans but cannot turn back to its initial state is a symbolism of personal development: it is the transition between your old delinquent life and your newly acquired life. \n2. Tofu is white and symbolise the purity among other qualities. \n3. Prisonniers are suffers from malnutrition. Eating tofu, a rich protein, is good for their health and shows once again that they change their lifestyle, here it is to eat healthier."
+      }
+    ],
+    "5": [
+      {
+        "beginAnswer": 0,
+        "endAnswer": 100,
+        "step":  1,
+        "correctAnswer": 87,
+        "acceptedError": 10,
+        "questionType": "Slider",
+        "questionId": "c88203b3-08f6-4ce5-a0b9-ghk345pu87200n",
+        "questionText": "How many bottles of soju drinks a korean per year on average?",
+        "alreadyAnswered": false,
+        "difficulty": 5,
+        "explanation": "In 2017, every person over 20 years old drank on average 87 bottles. Each bottle can be found in the convenience store around 2,000 wons."
+      }
+    ]
+  } }

@@ -1,0 +1,190 @@
+{
+
+  "categoryType": 4,
+  "questions": {
+    "1": [
+      {
+        "possibleAnswers": [
+          {
+            "answerId": "c88203b3-08f6-p39d-cpqm-sha05kgn3cw9-0",
+            "TextAnswer": "one of the best in the world"
+          },
+          {
+            "answerId": "c88203b3-08f6-p39d-cpqm-sha05kgn3cw9-1",
+            "TextAnswer": "one of the worst in the world"
+          }
+        ],
+        "correctAnswerId": "c88203b3-08f6-p39d-cpqm-sha05kgn3cw9-1",
+        "questionType": "Radio",
+        "questionId": "c88203b3-08f6-p39d-cpqm-sha05kgn3cw9",
+        "questionText": "Sucuide rate is",
+        "alreadyAnswered": false,
+        "difficulty": 1,
+        "explanation": "According to the World Health Organization, South Korea has the 10th highest suicide rate in the world. It is the second country on the list with a high GDP, after Russia. Many teenagers commit sucuide due to the pressure they endure at school (grades, harassment by fellow classmates), while eldery people commit suicide to not be a burden to their family. Finally, celebrities end their life because they undergo bashing and hate on the internet. In every case, it is mainly due to the competition and chemyeon (showing good face). "
+      }
+    ],
+    "2": [
+      {
+        "beginAnswer": 19,
+        "endAnswer": 23,
+        "step": 1,
+        "correctAnswer": 22,
+        "acceptedError": 0,
+        "questionType": "Slider",
+        "questionId": "c88203b3-08f6-p39d-cpqm-0000jgdxvnlofsk0000",
+        "questionText": "When I am 20 in France and my birthday has not happened  yet, how old am I in Korea?",
+        "alreadyAnswered": false,
+        "difficulty": 2,
+        "explanation": "When the baby is born, they do not begin at 0 but at 1 year old. In addition, everybody gets one year older on new year. For instance, somebody who  is 20 years in France and has still not celebrated their birthday, would be 22 years in Korea."
+      },
+      {
+        "possibleAnswers": [
+          {
+            "answerId": "c88203b3-08f6-p39d-cpqm-ksyapx5920hdvzi-0",
+            "TextAnswer": "tofu"
+          },
+          {
+            "answerId": "c88203b3-08f6-p39d-cpqm-ksyapx5920hdvzi-1",
+            "TextAnswer": "a piece of raw meet"
+          },
+          {
+            "answerId": "c88203b3-08f6-p39d-cpqm-ksyapx5920hdvzi-2",
+            "TextAnswer": "seaweed"
+          },
+          {
+            "answerId": "c88203b3-08f6-p39d-cpqm-ksyapx5920hdvzi-3",
+            "TextAnswer": "a boiled egg"
+          }
+        ],
+        "correctAnswerId": "c88203b3-08f6-p39d-cpqm-ksyapx5920hdvzi-3",
+        "questionType": "Radio",
+        "questionId": "c88203b3-08f6-p39d-cpqm-ksyapx5920hdvzi",
+        "questionText": "What do Koreans put on their skin to cure bruises?",
+        "alreadyAnswered": false,
+        "difficulty": 2,
+        "explanation": "The practise has no scientific evidence behind it, but it is a common belief that boiled eggs help with bruising. Apparently, the heat from the hard boiled eggs reduces the pain and dilates the blood vessels which accelerate the process of healing. In addition, the shape of eggs makes the rolling easy and disperse the blood cells from the area. However, doctors agree that rubbing a hot surface on a bruise increases the internal bleeding and therefore has the opposite effect. "
+      },
+      {
+        "possibleAnswers": [
+          {
+            "answerId": "c88203b3-08f6-p39d-cpqm-345701hlaosn45792063-0",
+            "TextAnswer": "taking a 10 minutes nap"
+          },
+          {
+            "answerId": "c88203b3-08f6-p39d-cpqm-345701hlaosn45792063-1",
+            "TextAnswer": "eating a soup"
+          },
+          {
+            "answerId": "c88203b3-08f6-p39d-cpqm-ksyapx5920hdvzi-2",
+            "TextAnswer": "pricking one of their fingers"
+          },
+          {
+            "answerId": "c88203b3-08f6-p39d-cpqm-345701hlaosn45792063-3",
+            "TextAnswer": "20 jumping jack"
+          }
+        ],
+        "correctAnswerId": "c88203b3-08f6-p39d-cpqm-345701hlaosn45792063-2",
+        "questionType": "Radio",
+        "questionId": "c88203b3-08f6-p39d-cpqm-345701hlaosn45792063",
+        "questionText": "What do Koreans do when they suffer from indigestion?",
+        "alreadyAnswered": false,
+        "difficulty": 2,
+        "explanation": "They prick their thumb. Apparently, it would come from an old belief which says that they must get rid of the bad blood (in opposition to good blood) created by indigestion. There is no medical evidence of the veracity of this act, but Koreans do feel better after pricking their finger. It is certainly due to a placebo effect. "
+      }
+    ],
+    "3": [
+      {
+        "possibleAnswers": [
+          {
+            "answerId": "c88203b3-08f6-p39d-cpqm-fa4kv5wux9sohfg-0",
+            "TextAnswer": "Assistant midwife"
+          },
+          {
+            "answerId": "c88203b3-08f6-p39d-cpqm-fa4kv5wux9sohfg-1",
+            "TextAnswer": "Priest"
+          },
+          {
+            "answerId": "c88203b3-08f6-p39d-cpqm-fa4kv5wux9sohfg-2",
+            "TextAnswer": "Careers adviser"
+          },
+          {
+            "answerId": "c88203b3-08f6-p39d-cpqm-fa4kv5wux9sohfg-3",
+            "TextAnswer": "Telesales representative"
+          },
+          {
+            "answerId": "c88203b3-08f6-p39d-cpqm-fa4kv5wux9sohfg-4",
+            "TextAnswer": "Masseuse"
+          },
+          {
+            "answerId": "c88203b3-08f6-p39d-cpqm-fa4kv5wux9sohfg-5",
+            "TextAnswer": "Florist"
+          }
+        ],
+        "correctAnswerId": "c88203b3-08f6-p39d-cpqm-fa4kv5wux9sohfg-4",
+        "questionType": "Radio",
+        "questionId": "c88203b3-08f6-p39d-cpqm-fa4kv5wux9sohfg",
+        "questionText": "What is the job reserved to blind people?",
+        "alreadyAnswered": false,
+        "difficulty": 3,
+        "explanation": "Massage licences are reserved to blind people. It is an old law which was established in 1912 during the Japanese occupation and  that protects the blind people from unemployment. In the past few years, many people tried to change this law so that they could get a massage licence as well. They claimed that this law was not fair. This position resulted in 3 suicides committed by blind people. The Constitution Court has always rejected this proposition and argued that blind people have fewer options when it comes to jobs and that they did not need competitors. Holding their positions, many masseurs live in illegality. "
+      }
+    ],
+    "4": [
+      {
+        "possibleAnswers": [
+          {
+            "answerId": "c88203b3-08f6-p39d-cpqm-kjsyzt574fsetgiom-0",
+            "TextAnswer": "A pencil"
+          },
+          {
+            "answerId": "c88203b3-08f6-p39d-cpqm-kjsyzt574fsetgiom-1",
+            "TextAnswer": "A rock"
+          },
+          {
+            "answerId": "c88203b3-08f6-p39d-cpqm-kjsyzt574fsetgiom-2",
+            "TextAnswer": "A thread"
+          },
+          {
+            "answerId": "c88203b3-08f6-p39d-cpqm-kjsyzt574fsetgiom-3",
+            "TextAnswer": "Money"
+          },
+          {
+            "answerId": "c88203b3-08f6-p39d-cpqm-kjsyzt574fsetgiom-4",
+            "TextAnswer": "A vase"
+          }
+        ],
+        "correctAnswerIds": [ "c88203b3-08f6-p39d-cpqm-kjsyzt574fsetgiom-0", "c88203b3-08f6-p39d-cpqm-kjsyzt574fsetgiom-2", "c88203b3-08f6-p39d-cpqm-kjsyzt574fsetgiom-3" ],
+        "questionType": "MultipleChoice",
+        "questionId": "c88203b3-08f6-p39d-cpqm-kjsyzt574fsetgiom",
+        "questionText": "On the first birthday of a baby, they are asked to choose between objects (just like choosing the starter pokemon). What are those three objects?",
+        "alreadyAnswered": false,
+        "difficulty": 4,
+        "explanation": "The first birthday of a child is called Dolhanchi. In the past, the infant death rate was so high that a baby who had lived more than one year was considered a miracle. That is why the first birthday is really important in Korean culture. The child is blessed during a ceremony where they wear hanboks, traditional outfits. They wish for the baby's long life and fortune: He or she is asked to choose between a thread, money and a pencil. Each one reveals a part of the personality of the baby (long life, will be rich,  good at school). This fortune telling custom is called Doljabi. "
+      }
+    ],
+    "5": [
+      {
+        "possibleAnswers": [
+          {
+            "answerId": "c88203b3-08f6-p39d-cpqm-2389910458920-0",
+            "TextAnswer": "A deep melancolic feeling that comes from an unresolvable burden"
+          },
+          {
+            "answerId": "c88203b3-08f6-p39d-cpqm-2389910458920-1",
+            "TextAnswer": "Pure joy"
+          },
+          {
+            "answerId": "c88203b3-08f6-p39d-cpqm-2389910458920-2",
+            "TextAnswer": "Thinking of us rather of I"
+          }
+        ],
+        "correctAnswerId": "c88203b3-08f6-p39d-cpqm-2389910458920-2",
+        "questionType": "Radio",
+        "questionId": "c88203b3-08f6-p39d-cpqm-2389910458920",
+        "questionText": "What is the Jeong?",
+        "alreadyAnswered": false,
+        "difficulty": 5,
+        "explanation": "Jeong resulted from a history of hardships (continuous invasion from China and Japan; supremacy of yangbans - nobles). It is not friendship, but rather togetherness. For instance, when you bring a snack to your office, you share with everybody. People would sacrifice just to help you, even if they do not like you. On the other hand, if you are not part of the group, you do not benefit from this shareness.  The other words described in the question are Han (ex: your grandma died and you cannot do anything about it, with resignation you carry the pain)  and Heung (ex: party as hell to forget your Han). "
+      }
+    ]
+  } }

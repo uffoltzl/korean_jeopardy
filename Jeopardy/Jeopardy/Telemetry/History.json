@@ -1,0 +1,183 @@
+{
+
+  "categoryType": 2,
+  "questions": {
+    "1": [
+      {
+        "possibleAnswers": [
+          {
+            "answerId": "c88203b3-08f6-h8si-79jl-jo036829ft64c-0",
+            "TextAnswer": "a sacred tiger"
+          },
+          {
+            "answerId": "c88203b3-08f6-h8si-79jl-jo036829ft64c-1",
+            "TextAnswer": "a creature living underwater that looks like a snake"
+          },
+          {
+            "answerId": "c88203b3-08f6-h8si-79jl-jo036829ft64c-2",
+            "TextAnswer": "a nine-tailed fox"
+          },
+          {
+            "answerId": "c88203b3-08f6-h8si-79jl-jo036829ft64c-3",
+            "TextAnswer": "a giant rabbit"
+          }
+        ],
+        "correctAnswerId": "c88203b3-08f6-h8si-79jl-jo036829ft64c-2",
+        "questionType": "Radio",
+        "questionId": "c88203b3-08f6-h8si-79jl-jo036829ft64c",
+        "questionText": "What is a Gumiho?",
+        "alreadyAnswered": false,
+        "difficulty": 1,
+        "explanation": "A fox that lives one hundred years turns into a gumiho. This creature can freely transform into a woman to trick men and eat their liver or heart. Gumiho have counterparts in Japanese and Chinese culture, however its particularity is its knowledge. According to Korean mythology, Gumihos have unlimited knowledge. This knowledge can be stolen by a human when they perform a deep kiss. During this kiss, the Gumiho will put their knowledge in the mouth of a human before taking it back with their tongue. Like this, they can absorb the energy of the human. However, if the human swallows the knowledge before it is taken back, it will be theirs. Nevertheless, this scenario has never happened. "
+      }
+    ],
+    "2": [
+      {
+        "beginAnswer": 1950,
+        "endAnswer": 2020,
+        "step": 1,
+        "correctAnswer": 2020,
+        "acceptedError": 0,
+        "questionType": "Slider",
+        "questionId": "c88203b3-08f6-h8si-79jl-j920bud3jk44",
+        "questionText": "When did the korean war end?",
+        "alreadyAnswered": false,
+        "difficulty": 2,
+        "explanation": "Korean war began on 25 June 1950.  The fighting ended on 27 July 1953, but even today no peace treaty has been signed. Therefore Korea is technically still at war. This is the reason why young korean men must give two years of their life to serve in the military."
+      }
+    ],
+    "3": [
+      {
+        "possibleAnswers": [
+          {
+            "answerId": "c88203b3-08f6-h8si-79jl-59ret73jx5i-0",
+            "TextAnswer": "a battleship"
+          },
+          {
+            "answerId": "c88203b3-08f6-h8si-79jl-59ret73jx5i-1",
+            "TextAnswer": "a sword"
+          },
+          {
+            "answerId": "c88203b3-08f6-h8si-79jl-59ret73jx5i-2",
+            "TextAnswer": "a stick"
+          },
+          {
+            "answerId": "c88203b3-08f6-h8si-79jl-59ret73jx5i-3",
+            "TextAnswer": "he was known not to carry any weapons"
+          }
+        ],
+        "correctAnswerId": "c88203b3-08f6-h8si-79jl-59ret73jx5i-0",
+        "questionType": "Radio",
+        "questionId": "c88203b3-08f6-h8si-79jl-59ret73jx5i",
+        "questionText": "Lee Sun Sin is considered as a war hero. What kind of weapon is associated with him?",
+        "alreadyAnswered": false,
+        "difficulty": 3,
+        "explanation": "Lee Sun Sin was facing the Japanese army. He decided to improve an old type of boat in order to fight against this invasion. Those boats are commonly called turtle boats because their roofs are entirely covered. In addition, spikes have been placed on the roofs to prevent from being boarded by the enemy. Small windows are located on the side of the boats to allow arrows and bullets to be fired. Lee Sun Sin won many battles before being betrayed by a Japanese double-agent. He died from a gunshot during a battle. His last words were 'The battle is at its height; Beat my war drums; Do not announce my death.'"
+      },
+      {
+        "possibleAnswers": [
+          {
+            "answerId": "c88203b3-08f6-h8si-79jl-a0b9-khzdiezu4giyze7jygdz8-0",
+            "TextAnswer": "The North Korean Army arrived until Busan."
+          },
+          {
+            "answerId": "c88203b3-08f6-h8si-79jl-a0b9-khzdiezu4giyze7jygdz8-1",
+            "TextAnswer": "The Chinese Army counterattacked to help the North Korean Army"
+          },
+          {
+            "answerId": "c88203b3-08f6-h8si-79jl-a0b9-khzdiezu4giyze7jygdz8-2",
+            "TextAnswer": "The North Korean Army crossed for the first time the 38th parallel border."
+          },
+          {
+            "answerId": "c88203b3-08f6-h8si-79jl-a0b9-khzdiezu4giyze7jygdz8-3",
+            "TextAnswer": "The American Army arrived on Korean soil to help the South Korean Army"
+          }
+        ],
+        "correctOrderedIds": [ "c88203b3-08f6-h8si-79jl-a0b9-khzdiezu4giyze7jygdz8-2", "c88203b3-08f6-h8si-79jl-a0b9-khzdiezu4giyze7jygdz8-0", "c88203b3-08f6-h8si-79jl-a0b9-khzdiezu4giyze7jygdz8-3", "c88203b3-08f6-h8si-79jl-a0b9-khzdiezu4giyze7jygdz8-1" ],
+        "questionType": "OrderedList",
+        "questionId": "c88203b3-08f6-h8si-79jl-a0b9-khzdiezu4giyze7jygdz8",
+        "questionText": "Here are the main episodes from the Korean War. Order these events by date.",
+        "alreadyAnswered": false,
+        "difficulty": 3,
+        "explanation": "After WWII, Korea was divided into two parts. The North is administered by the Soviets and the South by the Americans. On 25 June 1950, the North Korean Army crossed the border and entered South Korea. They arrived until Busan, where the remaining forces of South Korea held their positions. Side note: 71 students have resisted alone against an entire army; without this battle, it is believed that the South Korean Army would have been totally crushed. US soldiers arrived on Korean soil and repelled the North Korean Army until the Chinese border. The Chinese Army counterattacked and regained North Korean territories. The war ended where it has begun: the 38th parallel. The fighting ended on 27 July 1953. A Demilitarized Zone is created between the two countries. "
+      }
+    ],
+    "4": [
+      {
+        "possibleAnswers": [
+          {
+            "answerId": "c88203b3-08f6-h8si-79jl-a0b9-5m07f427jds5u-0",
+            "TextAnswer": "a turtle"
+          },
+          {
+            "answerId": "c88203b3-08f6-h8si-79jl-a0b9-5m07f427jds5u-1",
+            "TextAnswer": "a deer"
+          },
+          {
+            "answerId": "c88203b3-08f6-h8si-79jl-a0b9-5m07f427jds5u-2",
+            "TextAnswer": "a fox"
+          },
+          {
+            "answerId": "c88203b3-08f6-h8si-79jl-a0b9-5m07f427jds5u-3",
+            "TextAnswer": "a bear"
+          },
+          {
+            "answerId": "c88203b3-08f6-h8si-79jl-a0b9-5m07f427jds5u-4",
+            "TextAnswer": "a tiger"
+          },
+          {
+            "answerId": "c88203b3-08f6-h8si-79jl-a0b9-5m07f427jds5u-5",
+            "TextAnswer": "a bird"
+          }
+        ],
+        "correctAnswerIds": [ "c88203b3-08f6-h8si-79jl-a0b9-5m07f427jds5u-3", "c88203b3-08f6-h8si-79jl-a0b9-5m07f427jds5u-4" ],
+        "questionType": "MultipleChoice",
+        "questionId": "c88203b3-08f6-h8si-79jl-a0b9-5m07f427jds5u",
+        "questionText": "Two animals appear in the legend depicting the origin of Korea. Which one is it?",
+        "alreadyAnswered": false,
+        "difficulty": 4,
+        "explanation": "Once upon a time, a young prince named Hwanung, bored by his life in the sky, decided to come down to earth. He arrived on the mountain Baekdu and ordered his ministers to teach medicine, moral and agriculture to his new subjects. A tiger and a bear who heard the good deed of this prince asked him to transform them into humans. Hwanung accepted on the condition that they stay three month in a cave and eat only garlic and mugwort (a plant). Only the bear achieved this challenge. The tiger went back to the mountains. Until the XIXth century, tigers frightened villagers just like wolves in Europe. Once the bear transformed into a woman, she married the prince who was moved by her daily prayers in front of a birch (a type of tree). Together, they had a boy called Dangun (prince of birch) who founded Korea on 3 October 2333 BC. Today, in both Korea, the 3rd of October is still celebrated. Additional fun fact: Kim Jong Il is said to be born on the sacred mountain, Baekdu."
+      }
+    ],
+    "5": [
+      {
+        "possibleAnswers": [
+          {
+            "answerId": "c88203b3-08f6-h8si-79jl-qp84nwb457fhk6-0",
+            "TextAnswer": "Lee Sun Sin"
+          },
+          {
+            "answerId": "c88203b3-08f6-h8si-79jl-qp84nwb457fhk6-1",
+            "TextAnswer": "Kim Yuna"
+          },
+          {
+            "answerId": "c88203b3-08f6-h8si-79jl-qp84nwb457fhk6-2",
+            "TextAnswer": "King Sejong"
+          },
+          {
+            "answerId": "c88203b3-08f6-h8si-79jl-qp84nwb457fhk6-3",
+            "TextAnswer": "Dangun"
+          },
+          {
+            "answerId": "c88203b3-08f6-h8si-79jl-qp84nwb457fhk6-4",
+            "TextAnswer": "Prince Yeonsan"
+          },
+          {
+            "answerId": "c88203b3-08f6-h8si-79jl-qp84nwb457fhk6-5",
+            "TextAnswer": "Kim Tae-pyung"
+          },
+          {
+            "answerId": "c88203b3-08f6-h8si-79jl-qp84nwb457fhk6-6",
+            "TextAnswer": "Chiwoo, the red devil"
+          }
+        ],
+        "correctAnswerId": "c88203b3-08f6-h8si-79jl-qp84nwb457fhk6-4",
+        "questionType": "Radio",
+        "questionId": "c88203b3-08f6-h8si-79jl-qp84nwb457fhk6",
+        "questionText": "Among these people, which one was despised?",
+        "alreadyAnswered": false,
+        "difficulty": 5,
+        "explanation": "Yeonsan the terrible reigned from 1494 to 1506. He was paranoiac and disturbed. Thus, he killed a lot of people because he thought his life was threatened. Only to find the person that might have cause the suicide of his mother, he executed 239 educated person. He is considered as the worst dictator Korea has known."
+      }
+    ]
+  } }
