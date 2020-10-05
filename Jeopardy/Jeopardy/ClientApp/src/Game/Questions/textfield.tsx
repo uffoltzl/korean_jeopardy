@@ -3,9 +3,9 @@ import axios from "axios";
 
 import TextField from '@material-ui/core/TextField';
 import Button from '@material-ui/core/Button';
-
-import { TextfieldQuestion } from "../Models/question";
 import { Typography } from "@material-ui/core";
+
+import { TextfieldQuestion } from "../../Models/question";
 
 interface TextfieldQuestionComponentProps {
     question: TextfieldQuestion;

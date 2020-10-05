@@ -9,7 +9,7 @@ import FormControlLabel from '@material-ui/core/FormControlLabel';
 import Checkbox from '@material-ui/core/Checkbox';
 import Button from '@material-ui/core/Button';
 
-import { MultipleChoiceQuestion } from "../Models/question";
+import { MultipleChoiceQuestion } from "../../Models/question";
 
 const useStyles = makeStyles((theme) => ({
     formControl: {

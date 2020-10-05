@@ -8,7 +8,7 @@ import FormControlLabel from '@material-ui/core/FormControlLabel';
 import Radio from '@material-ui/core/Radio';
 import Button from '@material-ui/core/Button';
 
-import { RadioQuestion } from "../Models/question";
+import { RadioQuestion } from "../../Models/question";
 
 interface RadioQuestionComponentProps {
     question: RadioQuestion;

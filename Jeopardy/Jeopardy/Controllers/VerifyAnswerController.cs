@@ -1,5 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
 using Jeopardy.Models;
 using Jeopardy.Models.Questions;
 using Microsoft.AspNetCore.Mvc;

@@ -10,8 +10,8 @@ import ListItemText from '@material-ui/core/ListItemText';
 import ArrowDropDownRoundedIcon from '@material-ui/icons/ArrowDropDownRounded';
 import ArrowDropUpRoundedIcon from '@material-ui/icons/ArrowDropUpRounded';
 
-import { OrderedListQuestion, Answer } from "../Models/question";
-import { Colors } from "../SharedStyles";
+import { OrderedListQuestion, Answer } from "../../Models/question";
+import { Colors } from "../../SharedStyles";
 
 const useStyles = makeStyles((theme) => ({
     orderList: {

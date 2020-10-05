@@ -93,14 +93,34 @@ namespace Jeopardy.Controllers
         [Route("getStopGame")]
         public int GetStopGame(string gameId)
         {
-            return Current.Instance.GameCache.GetGameById(gameId).GetGameover();
+            // Verify that the game exist at the loading of the page
+            // This verification is not necessary in the other methods except GetRound()
+            Game game = Current.Instance.GameCache.GetGameById(gameId);
+            if (game != null)
+            {
+                return game.GetGameover();
+            }
+            else
+            {
+                return -2;
+            }
         }
 
         [HttpGet]
         [Route("getRound")]
         public int GetRound(string gameId)
         {
-            return Current.Instance.GameCache.GetGameById(gameId).Round;
+            // Verify that the game exist at the loading of the page
+            // This verification is not necessary in the other methods except GetStopGame()
+            Game game = Current.Instance.GameCache.GetGameById(gameId);
+            if (game != null)
+            {
+                return game.Round;
+            }
+            else
+            {
+                return -1;
+            }
         }
     }
 }

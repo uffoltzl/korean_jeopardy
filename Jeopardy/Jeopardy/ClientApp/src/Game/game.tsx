@@ -2,12 +2,11 @@ import * as React from "react";
 import { makeStyles } from '@material-ui/core/styles';
 import axios from "axios";
 
-import { CategoryType } from "../Models/category";
 import Header from "./Header/header";
 import Board from "./board";
 import Gameover from "./gameover";
+import Error from "./error";
 import { Colors } from "../SharedStyles";
-import { UpdateRounded } from "@material-ui/icons";
 
 const useStyles = makeStyles((theme) => ({
     page: {
@@ -30,7 +29,7 @@ const Game = () => {
     const [pageRefresh, setPageRefresh] = React.useState<boolean>(true);
 
     const [themeColor, setThemeColor] = React.useState<string>(Colors.Red);
-    const [round, setRound] = React.useState<number>(0);
+    const [round, setRound] = React.useState<number>(-2);
     const [stopGame, setStopGame] = React.useState<number>(0);
     const [step, setStep] = React.useState<number>(0);
     const [nextCat, setNextCat] = React.useState<number>(0);
@@ -50,11 +49,11 @@ const Game = () => {
             axios.post("/game/nextRound", { gameId }).then(() => setNextCat(nextCat+1))
         }
 
-        if(round == 0){
+        if(round == -2){
             getStopGame();
             getRound();
         }
-        else {
+        else if(round != -1){
             if(!pageRefresh){
                 updateRound();
             }
@@ -75,6 +74,9 @@ const Game = () => {
 
     return (
         <div className={classes.page} style={{backgroundColor: themeColor}}>
+            {round == -1 && <Error/>}
+
+            {round != -1 && round != -2 && <div>
             <Header
                 round={round}
                 gameId={gameId}
@@ -96,6 +98,8 @@ const Game = () => {
                     gameId={gameId}
                 />
             }
+
+            </div>}
         </div>
     );
 }
