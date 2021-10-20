@@ -8,7 +8,7 @@ import Gameover from "./gameover";
 import Error from "./error";
 import { Colors } from "../SharedStyles";
 
-const useStyles = makeStyles((theme) => ({
+const useStyles = makeStyles({
     page: {
         position: "absolute",
         height: '100vh',
@@ -19,7 +19,7 @@ const useStyles = makeStyles((theme) => ({
     icon: {
         color: "black"
     }
-}));
+});
 
 const Game = () => {
     const classes = useStyles();

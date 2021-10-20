@@ -21,7 +21,7 @@ import { List, ListItem, ListSubheader, ListItemText, Grid, Typography, Paper, B
 import { CategoryType } from "../Models/category";
 
 
-const useStyles = makeStyles((theme) => ({
+const useStyles = makeStyles({
     center: {
         position: "absolute",
         top:"10%",
@@ -35,7 +35,7 @@ const useStyles = makeStyles((theme) => ({
     title: {
         display: "flex"
     }
-}));
+});
 
 interface BoardProps {
     gameId: string;

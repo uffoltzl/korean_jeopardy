@@ -15,7 +15,7 @@ import { useHome } from "./useHome.hook";
 
 import Background from '../assets/korea.jpg';
 
-const useStyles = makeStyles((theme) => ({
+const useStyles = makeStyles({
   page: {
     height: '100vh',
   },
@@ -35,7 +35,7 @@ const useStyles = makeStyles((theme) => ({
     textAlign: "center",
     padding: "20px",
   },
-}));
+});
 
 const Home = () => {
   const classes = useStyles();

@@ -4,7 +4,7 @@ import { makeStyles } from '@material-ui/core/styles';
 import { Paper, Typography } from "@material-ui/core";
 import WarningRoundedIcon from '@material-ui/icons/WarningRounded';
 
-const useStyles = makeStyles((theme) => ({
+const useStyles = makeStyles({
     center: {
         position: "absolute",
         top: "50%",
@@ -15,7 +15,7 @@ const useStyles = makeStyles((theme) => ({
         textAlign: "center",
         padding: "20px",
     },
-}));
+});
 
 const Error = () => {
     const classes = useStyles();

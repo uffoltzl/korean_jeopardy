@@ -7,7 +7,7 @@ import EmojiEmotionsRoundedIcon from '@material-ui/icons/EmojiEmotionsRounded';
 
 import { Team } from "../Models/team";
 
-const useStyles = makeStyles((theme) => ({
+const useStyles = makeStyles({
     center: {
         position: "absolute",
         top: "50%",
@@ -18,7 +18,7 @@ const useStyles = makeStyles((theme) => ({
         textAlign: "center",
         padding: "20px",
     },
-}));
+});
 
 interface GameoverProps {
     gameId: string;

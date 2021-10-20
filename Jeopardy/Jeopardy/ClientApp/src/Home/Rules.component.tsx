@@ -5,7 +5,7 @@ import { Typography } from "@material-ui/core";
 
 import All from "../assets/all.jpg"
 
-const useStyles = makeStyles((theme) => ({
+const useStyles = makeStyles({
     title: {
         textAlign: "center",
         fontWeight: "bold"
@@ -13,7 +13,7 @@ const useStyles = makeStyles((theme) => ({
     step: {
         display: "flex"
     }
-}));
+});
 
 const Rules = () => {
     const classes = useStyles();
