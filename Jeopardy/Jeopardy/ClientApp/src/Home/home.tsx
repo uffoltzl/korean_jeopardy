@@ -1,6 +1,5 @@
 import * as React from "react";
 import { makeStyles } from '@material-ui/core/styles';
-import axios from "axios";
 
 import Grid from '@material-ui/core/Grid';
 import Paper from '@material-ui/core/Paper';
@@ -12,6 +11,7 @@ import Fab from '@material-ui/core/Fab';
 import PlayArrowRoundedIcon from '@material-ui/icons/PlayArrowRounded';
 
 import Rules from "./rules";
+import { useHome } from "./useHome";
 
 import Background from './korea.jpg';
 
@@ -39,62 +39,16 @@ const useStyles = makeStyles((theme) => ({
 
 const Home = () => {
   const classes = useStyles();
+  const {
+    alignment,
+    handleAlignment,
+    onSubmit,
+    nameIds,
+    alreadyClickSend,
+    onChange,
+    names,
+  } = useHome();
 
-  const [alignment, setAlignment] = React.useState<string | null>('2');
-  const [nameIds, setNameIds] = React.useState<number[]>([1, 2]);
-  const [names, setNames] = React.useState<string[]>(["", "", "", ""]);
-  const [launchGame, setLaunchGame] = React.useState<boolean>(false);
-  const [alreadyClickSend, setAlreadyClickSend] = React.useState<boolean>(false);
-
-  React.useEffect(() => {
-      const callBeginGame = async () => {
-          const result = await axios.post<string>("/home/beginGame", names.slice(0, nameIds.length));
-       window.location.href = "/game/gameId=?" + result.data;
-    }
-
-    if (launchGame) {
-        callBeginGame();
-    }
-  }, [launchGame]);
-
-  const handleAlignment = (event: React.MouseEvent<HTMLElement>, newAlignment: string | null) => {
-    setAlignment(newAlignment);
-
-    if(newAlignment != null){
-      var tab: number[] = [];
-      for(var i = 1; i <= +newAlignment; i++){
-        tab.push(i);
-      }
-      setNameIds(tab);
-    }
-  };
-
-  const isComplete = () => {
-    if(alignment == null) return false;
-
-    for(var i = 0; i < +alignment; i++){
-      if(names[i] === ""){
-        return false;
-      }
-    }
-    return true;
-  }
-
-  const onSubmit = (event: React.FormEvent<HTMLFormElement>) => {
-    event.preventDefault();
-    if(isComplete()){
-        setLaunchGame(true);
-    }
-    else {
-        setAlreadyClickSend(true);
-    }
-  };
-
-  const onChange = (event: React.ChangeEvent<HTMLInputElement>) => {
-    var newNames = names;
-    newNames[+event.target.id] = event.target.value;
-    setNames(newNames);
-  }
 
   return (
     <Grid container spacing={2} className={classes.page}>
