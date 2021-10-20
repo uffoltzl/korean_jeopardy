@@ -3,8 +3,7 @@ import { makeStyles } from '@material-ui/core/styles';
 
 import { Typography } from "@material-ui/core";
 
-import All from "./all.jpg"
-import { Colors } from "../SharedStyles";
+import All from "../assets/all.jpg"
 
 const useStyles = makeStyles((theme) => ({
     title: {

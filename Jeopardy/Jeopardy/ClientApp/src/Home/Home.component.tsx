@@ -13,7 +13,7 @@ import PlayArrowRoundedIcon from '@material-ui/icons/PlayArrowRounded';
 import Rules from "./Rules.component";
 import { useHome } from "./useHome.hook";
 
-import Background from './korea.jpg';
+import Background from '../assets/korea.jpg';
 
 const useStyles = makeStyles((theme) => ({
   page: {
