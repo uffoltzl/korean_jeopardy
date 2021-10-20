@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import { Route } from 'react-router';
-import Home from './Home/home';
+import Home from './Home/Home.component';
 import Game from './Game/game';
 
 export default class App extends Component {

@@ -10,8 +10,8 @@ import TextField from '@material-ui/core/TextField';
 import Fab from '@material-ui/core/Fab';
 import PlayArrowRoundedIcon from '@material-ui/icons/PlayArrowRounded';
 
-import Rules from "./rules";
-import { useHome } from "./useHome";
+import Rules from "./Rules.component";
+import { useHome } from "./useHome.hook";
 
 import Background from './korea.jpg';
 
