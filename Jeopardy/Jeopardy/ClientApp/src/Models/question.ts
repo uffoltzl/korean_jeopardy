@@ -1,11 +1,11 @@
-export enum QuestionType
-{
+export enum QuestionType {
     Radio,
     MultipleChoice,
     Textfield,
     Slider,
     OrderedList
 }
+
 export interface Question {
     questionType: QuestionType;
     questionId: string;
