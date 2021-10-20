@@ -3,11 +3,11 @@ import { makeStyles } from '@material-ui/core/styles';
 import axios from "axios";
 
 import { Question, QuestionType, MultipleChoiceQuestion, RadioQuestion, TextfieldQuestion, SliderQuestion, OrderedListQuestion } from "../Models/question";
-import MultipleChoiceQuestionComponent from "./Questions/multipleChoice";
-import SliderQuestionComponent from "./Questions/slider";
-import RadioQuestionComponent from "./Questions/radio";
-import TextfieldQuestionComponent from "./Questions/textfield";
-import OrderedListQuestionComponent from "./Questions/orderedList";
+import MultipleChoiceQuestionComponent from "./Questions/MultipleChoice.component";
+import SliderQuestionComponent from "./Questions/Slider.component";
+import RadioQuestionComponent from "./Questions/Radio.component";
+import TextfieldQuestionComponent from "./Questions/Textfield.component";
+import OrderedListQuestionComponent from "./Questions/OrderedList.component";
 
 import FastfoodRoundedIcon from '@material-ui/icons/FastfoodRounded';
 import TranslateRoundedIcon from '@material-ui/icons/TranslateRounded';

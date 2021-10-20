@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import { Route } from 'react-router';
 import Home from './Home/Home.component';
-import Game from './Game/game';
+import Game from './Game/Game.component';
 
 export default class App extends Component {
   static displayName = App.name;

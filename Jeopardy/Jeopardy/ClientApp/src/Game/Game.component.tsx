@@ -2,10 +2,10 @@ import * as React from "react";
 import { makeStyles } from '@material-ui/core/styles';
 import axios from "axios";
 
-import Header from "./Header/header";
-import Board from "./board";
-import Gameover from "./gameover";
-import Error from "./error";
+import Header from "./Header/Header.component";
+import Board from "./Board.component";
+import Gameover from "./Gameover.component";
+import Error from "./Error.component";
 import { Colors } from "../SharedStyles";
 
 const useStyles = makeStyles({

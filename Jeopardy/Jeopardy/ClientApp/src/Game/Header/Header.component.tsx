@@ -7,7 +7,7 @@ import Toolbar from '@material-ui/core/Toolbar';
 import { Typography, Badge, Grid } from "@material-ui/core";
 
 import { Team } from "../../Models/team";
-import Help from "./help";
+import Help from "./Help.component";
 import { Colors } from "../../SharedStyles";
 
 const useStyles = makeStyles((theme) => ({
