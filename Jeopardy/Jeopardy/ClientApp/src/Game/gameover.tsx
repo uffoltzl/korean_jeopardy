@@ -42,7 +42,7 @@ const Gameover = (props: GameoverProps) => {
         <div className={classes.center} >
             <Paper className={classes.card} elevation={3}>
                 <Typography>End of the game</Typography>
-                {winners && winners.length == 1 && 
+                {winners && winners.length === 1 && 
                     <Typography variant="h5">
                         The winner is {winners[0].name}
                     </Typography>
@@ -50,7 +50,7 @@ const Gameover = (props: GameoverProps) => {
                 {winners && winners.length > 1 &&
                     <Typography variant="h5">
                         The winners are {winners.map((winner, index) => 
-                            (index != 0 ? " and " : "") + winner.name
+                            (index !== 0 ? " and " : "") + winner.name
                         )}
                     </Typography>
                 }

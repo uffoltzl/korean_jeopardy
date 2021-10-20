@@ -43,7 +43,7 @@ const RadioQuestionComponent = (props: RadioQuestionComponentProps) => {
             <FormControl component="fieldset">
                 <FormLabel component="legend">{question.questionText}</FormLabel>
                 <RadioGroup value={response} onChange={handleChange}>
-                    {question.possibleAnswers.length == 0 && 
+                    {question.possibleAnswers.length === 0 && 
                         <FormControlLabel
                             control={<Radio />}
                             value="error"

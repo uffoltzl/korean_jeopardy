@@ -55,17 +55,17 @@ const Help = (props: HelpProps) => {
                     The current player is in bold and italic.
                 </Typography>
                 <Typography variant="body2" className={classes.dialogInfo} >The theme of the question is stated by a logo and name.</Typography>
-                {step == 0 && 
+                {step === 0 && 
                     <Typography variant="body2" className={classes.dialogInfo} >
                         The current player has to choose the difficulty of the question he wants to answer in the given topic. The difficulty of the question is the number of points the player can win if they answer correctly.
                     </Typography>
                 }
-                {step == 1 && 
+                {step === 1 && 
                     <Typography variant="body2" className={classes.dialogInfo} >
                         The question has appeared, the current player needs to answer it. To validate the answer, click on 'Send'.
                     </Typography>
                 }
-                {step == 2 && 
+                {step === 2 && 
                     <Typography variant="body2" className={classes.dialogInfo} >
                         The explanation of the answer has appeared. Once read, click on 'Next'.
                     </Typography>

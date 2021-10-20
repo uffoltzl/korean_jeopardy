@@ -56,7 +56,7 @@ const MultipleChoiceQuestionComponent = (props: MultipleChoiceQuestionComponentP
             <FormControl component="fieldset" className={classes.formControl}>
                 <FormLabel component="legend">{question.questionText}</FormLabel>
                 <FormGroup>
-                    {question.possibleAnswers.length == 0 && 
+                    {question.possibleAnswers.length === 0 && 
                         <FormControlLabel
                         control={<Checkbox onChange={() => {}} />}
                         label="Error, no answer available for this question"

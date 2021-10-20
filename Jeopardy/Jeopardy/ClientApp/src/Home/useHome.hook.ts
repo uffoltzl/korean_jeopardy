@@ -22,7 +22,7 @@ export const useHome = () => {
     const handleAlignment = (event: React.MouseEvent<HTMLElement>, newAlignment: string | null) => {
       setAlignment(newAlignment);
   
-      if(newAlignment != null){
+      if(newAlignment !== null){
         var tab: number[] = [];
         for(var i = 1; i <= +newAlignment; i++){
           tab.push(i);
@@ -32,7 +32,7 @@ export const useHome = () => {
     };
   
     const isComplete = () => {
-      if(alignment == null) return false;
+      if(alignment === null) return false;
   
       for(var i = 0; i < +alignment; i++){
         if(names[i] === ""){

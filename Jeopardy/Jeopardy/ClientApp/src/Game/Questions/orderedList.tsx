@@ -50,7 +50,7 @@ const OrderedListQuestionComponent = (props: OrderedListQuestionComponentProps) 
 
     const findIndex = (answerId: string) => {
         for(var i = 0; i < orderedAnswers.length; i++){
-            if(orderedAnswers[i].answerId == answerId){
+            if(orderedAnswers[i].answerId === answerId){
                 return i;
             }
         }
@@ -58,7 +58,7 @@ const OrderedListQuestionComponent = (props: OrderedListQuestionComponentProps) 
     }
 
     const handleClickUp = () => {
-        if(answerClicked != ""){
+        if(answerClicked !== ""){
             var i = findIndex(answerClicked);
             if(i > 0){
                 var inter: Answer[] = orderedAnswers;
@@ -72,7 +72,7 @@ const OrderedListQuestionComponent = (props: OrderedListQuestionComponentProps) 
     };
 
     const handleClickDown = () => {
-        if(answerClicked != ""){
+        if(answerClicked !== ""){
             var i = findIndex(answerClicked);
             if(i < orderedAnswers.length-1){
                 var inter: Answer[] = orderedAnswers;
@@ -99,7 +99,7 @@ const OrderedListQuestionComponent = (props: OrderedListQuestionComponentProps) 
                             button 
                             disabled={alreadyAnswered || question.alreadyAnswered} 
                             onClick={(event) => listItemClicked(value.answerId)}
-                            className={value.answerId == answerClicked ? classes.clicked : ""}
+                            className={value.answerId === answerClicked ? classes.clicked : ""}
                         >
                             <ListItemText primary={value.textAnswer} />
                         </ListItem>

@@ -85,7 +85,7 @@ const Home = () => {
             {nameIds.map((nameId, index) =>
               <Grid item xs={6}>
                 <TextField 
-                    error={names[index] == "" && alreadyClickSend}
+                    error={names[index] === "" && alreadyClickSend}
                     key={nameId.toString()} 
                     onChange={onChange} 
                     id={(nameId - 1).toString()} 

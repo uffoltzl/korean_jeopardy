@@ -135,9 +135,9 @@ const Board = (props: BoardProps) => {
                             button 
                             onClick={(event: React.MouseEvent<HTMLDivElement, MouseEvent>) => 
                                 handleClick(5-index)} 
-                            disabled={diff == 0 ? availableQuestion : true} 
+                            disabled={diff === 0 ? availableQuestion : true} 
                             key={index}
-                            style={diff == 0 ? {} : diff == 5-index ? {backgroundColor: themeColor} : {}}
+                            style={diff === 0 ? {} : diff === 5-index ? {backgroundColor: themeColor} : {}}
                         >
                             <ListItemText>{5-index}</ListItemText>
                         </ListItem>

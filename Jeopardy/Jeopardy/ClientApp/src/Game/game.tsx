@@ -49,11 +49,11 @@ const Game = () => {
             axios.post("/game/nextRound", { gameId }).then(() => setNextCat(nextCat+1))
         }
 
-        if(round == -2){
+        if(round === -2){
             getStopGame();
             getRound();
         }
-        else if(round != -1){
+        else if(round !== -1){
             if(!pageRefresh){
                 updateRound();
             }
@@ -74,9 +74,9 @@ const Game = () => {
 
     return (
         <div className={classes.page} style={{backgroundColor: themeColor}}>
-            {round == -1 && <Error/>}
+            {round === -1 && <Error/>}
 
-            {round != -1 && round != -2 && <div>
+            {round !== -1 && round !== -2 && <div>
             <Header
                 round={round}
                 gameId={gameId}

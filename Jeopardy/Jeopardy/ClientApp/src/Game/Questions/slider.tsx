@@ -30,7 +30,7 @@ const SliderQuestionComponent = (props: SliderQuestionComponentProps) => {
     }
 
     const handleChange = (event: React.ChangeEvent<{}>, value: number | number[]) => {
-        if(typeof value == "number"){
+        if(typeof value === "number"){
             setResponse(value);
         }
     };
